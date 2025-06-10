@@ -1,8 +1,3 @@
-"""
-Himalayan Expeditions Dataset Analysis
-Анализ данных экспедиций в Гималаи с применением многомерных статистических методов
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
